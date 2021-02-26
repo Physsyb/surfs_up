@@ -4,7 +4,7 @@
 #### W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Resources
-* Data Source: ~hawaii.sqlite`
+* Data Source: `hawaii.sqlite`
 * Software/Tools: Jupyter Notebook 6.1.4, Visual Studio Code 1.53.2, Anaconda 4.9.2, Python 3.7.9, Pandas, Matplotlib
 
 ## Deliverable 1: Determine the Summary Statistics for June 
